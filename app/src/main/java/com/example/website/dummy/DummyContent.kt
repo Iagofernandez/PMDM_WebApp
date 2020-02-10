@@ -11,6 +11,11 @@ import java.util.HashMap
  */
 object DummyContent {
 
+    // IMPORTANTETTETETETETEET
+    //ES SUPER NECESARIO ENTRAR EN EL APP ANDROIDMANIFEST.XML Y ESCRIBIR LO SIGUIENTE
+    //    <uses-permission android:name="android.permission.INTERNET" />
+    // AÑADE PERMISOS DE INTERNET A NUESTRA APP
+
     /**
      * An array of sample (dummy) items.
      */
